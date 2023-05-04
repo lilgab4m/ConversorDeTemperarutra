@@ -24,7 +24,7 @@ public class ConversorDeTemperatura {
 
 		opçao = entrada.nextInt();
 
-		// Camilly
+		// Felipe
 		if (opçao == 1) {
 			// Entradas
 			System.out.print("Informe Celsius: ");
